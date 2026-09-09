@@ -1,10 +1,10 @@
-# 🌸 Daniel's Builder Website
+# 🌸 My Builder Website
 
-Hi! This is personal corner of the internet, better known as a "builder site": a little about me, my favorite song of the moment, some of my projects, and links to find me elsewhere online.
+Hi! This is my personal corner of the internet, better known as a "builder site": a little about me, my favorite song of the moment, some of my projects, and links to find me elsewhere online. Made for Hack Club Pixl! <3
 
-## 🔗 Live Site
+## Live Site:
 
-[[View it here](https://daniel-comas.github.io/Builder-Website/)](#) <!-- swap this with your GitHub Pages link once it's deployed -->
+[Check it out!](https://daniel-comas.github.io/Builder-Website/) <!-- swap this with your GitHub Pages link once it's deployed -->
 
 ## 🛠️ Built With
 
@@ -23,9 +23,9 @@ Hi! This is personal corner of the internet, better known as a "builder site": a
 
 ## 📦 Deployment
 
-This site is deployed with **GitHub Pages**, served from the `main` branch, root folder.
+This site is deployed with GitHub Pages.
 
-## 🗺️ To Do
+## 🗺️ To Add
 
 - [ ] Add more projects as I build them
 - [ ] Learn Git branching properly 😅
